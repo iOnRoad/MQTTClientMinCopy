@@ -1,3 +1,5 @@
+> This is 0.15.1 version copy, modify MQTTSession some code, resolve decode message before shut down broker. May be will be deleted soon after！
+
 # MQTT-Client-Framework 
 
 [![Build Status](https://travis-ci.org/novastone-media/MQTT-Client-Framework.svg?branch=master)](https://travis-ci.org/novastone-media/MQTT-Client-Framework)

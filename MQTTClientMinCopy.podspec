@@ -1,7 +1,7 @@
 Pod::Spec.new do |mqttc|
 mqttc.name         = "MQTTClientMinCopy"
 mqttc.version      = "0.15.1"
-mqttc.summary      = "iOS, macOS and tvOS native ObjectiveC MQTT Client Framework"
+mqttc.summary      = "iOS, macOS and tvOS native ObjectiveC MQTT Client Framework, This is 0.15.1 version copy, modify MQTTSession some code, resolve decode message before shut down broker. May be will be deleted soon after！"
 mqttc.homepage     = "https://github.com/novastone-media/MQTT-Client-Framework"
 mqttc.license      = { :type => "EPLv1", :file => "LICENSE" }
 mqttc.author       = { "novastonemedia" => "ios@novastonemedia.com" }
