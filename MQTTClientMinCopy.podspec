@@ -8,7 +8,6 @@ mqttc.author       = { "novastonemedia" => "ios@novastonemedia.com" }
 mqttc.source       = {
 :git => "https://github.com/iOnRoad/MQTTClientMinCopy.git",
 :tag => "0.15.1",
-:submodules => true
 }
 
 mqttc.requires_arc = true
