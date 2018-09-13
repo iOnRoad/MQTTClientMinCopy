@@ -15,20 +15,20 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MQTTClient/MQTTSession.h>
-#import <MQTTClient/MQTTDecoder.h>
-#import <MQTTClient/MQTTSessionLegacy.h>
-#import <MQTTClient/MQTTSessionSynchron.h>
-#import <MQTTClient/MQTTProperties.h>
-#import <MQTTClient/MQTTMessage.h>
-#import <MQTTClient/MQTTTransport.h>
-#import <MQTTClient/MQTTCFSocketTransport.h>
-#import <MQTTClient/MQTTCoreDataPersistence.h>
-#import <MQTTClient/MQTTSSLSecurityPolicyTransport.h>
-#import <MQTTClient/MQTTLog.h>
+#import <MQTTClientMinCopy/MQTTSession.h>
+#import <MQTTClientMinCopy/MQTTDecoder.h>
+#import <MQTTClientMinCopy/MQTTSessionLegacy.h>
+#import <MQTTClientMinCopy/MQTTSessionSynchron.h>
+#import <MQTTClientMinCopy/MQTTProperties.h>
+#import <MQTTClientMinCopy/MQTTMessage.h>
+#import <MQTTClientMinCopy/MQTTTransport.h>
+#import <MQTTClientMinCopy/MQTTCFSocketTransport.h>
+#import <MQTTClientMinCopy/MQTTCoreDataPersistence.h>
+#import <MQTTClientMinCopy/MQTTSSLSecurityPolicyTransport.h>
+#import <MQTTClientMinCopy/MQTTLog.h>
 
-#if __has_include(<MQTTClient/MQTTSessionManager.h>)
-#import <MQTTClient/MQTTSessionManager.h>
+#if __has_include(<MQTTClientMinCopy/MQTTSessionManager.h>)
+#import <MQTTClientMinCopy/MQTTSessionManager.h>
 #endif
 
 //! Project version number for MQTTClient.
